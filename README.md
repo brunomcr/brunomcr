@@ -1,4 +1,4 @@
-<h1">Hi, I'm Brunomcr</h1>
+<h1>Hi, I'm Brunomcr</h1>
 
 **brunomcr/brunomcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
