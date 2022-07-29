@@ -1,12 +1,8 @@
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brunomcr&show_icons=true&theme=vision-friendly-dark" alt="brunomcr's stats"/>
-</p>
-
 <h1>Hi, I'm Brunomcr</h1>
 
 - 🔭 I’m currently working on Viveo
 
-- 🌱 I’m currently learning Web Application with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) and DevOps
+- 🌱 I’m currently learning Web Application with Python/Django and DevOps
 
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomcr/)
 
