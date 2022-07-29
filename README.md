@@ -1,3 +1,7 @@
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brunomcr&show_icons=true&theme=vision-friendly-dark" alt="brunomcr's stats"/>
+</p>
+
 <h1>Hi, I'm Brunomcr</h1>
 
 - 🔭 I’m currently working on Viveo
@@ -64,12 +68,3 @@
 
 ### Testing
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=brunomcr&show_icons=true&theme=vision-friendly-dark" alt="brunomcr's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomcr&layout=compact&theme=vision-friendly-dark" alt="brunomcr's most languages"/>
-</p>
