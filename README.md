@@ -1,16 +1,31 @@
-<h1>Hi, I'm Brunomcr</h1>
+<div align="center">
+  <h1>
+    Hi, I'm Brunomcr
+  </h1>
+</div>
 
-- 🔭 I’m currently working on Viveo
+<p align="center">
+  <a href="https://www.linkedin.com/in/brunomcr/">
+    <img
+      alt="Logo Linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
-- 🌱 I’m currently learning Web Application with Python/Django and DevOps
 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomcr/)
+<p align="start">
+  Person connected in information technology, improving knowledge in web development and systems analysis.
+  Well focused and organized person, problem solver, team spirit, attentive to small details.
+</p>
 
-<br><br>
 
-## 🛠 &nbsp;Main Tech Stack
+<br />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h3> 🛠 &nbsp;Main Tech Stack </h3>
+
+
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,3 +52,4 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
